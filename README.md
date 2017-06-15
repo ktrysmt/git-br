@@ -10,6 +10,8 @@ $ git br [-h|--help][-s|--sync]
 
 ## Installation
 
+via zplug;
+
 ```zsh
 zplug "jhawthorn/fzy", \
     as:command, \
@@ -21,4 +23,9 @@ zplug "b4b4r07/git-br", \
 
 # License
 
-MIT @ b4b4r07
+This repository is forked from `b4b4r07/git-br` (MIT @ b4b4r07).
+
+# Maitainer
+
+ktrysmt
+
