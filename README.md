@@ -21,11 +21,11 @@ zplug "b4b4r07/git-br", \
     use:'git-br'
 ```
 
-# License
+## License
 
 This repository is forked from `b4b4r07/git-br` (MIT @ b4b4r07).
 
-# Maitainer
+## Maitainer
 
 ktrysmt
 
